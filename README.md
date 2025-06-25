@@ -27,7 +27,7 @@ This UI is ready for backend integration with services like **Firebase**, **REST
 Make sure you have Flutter installed. Then:
 
 ```bash
-git clone https://github.com/yourusername/meetmax_auth_ui.git
-cd meetmax_auth_ui
+git clone https://github.com/eshtiakhasan/Mobile-app-development.git
+cd Mobile-app-development
 flutter pub get
 flutter run
