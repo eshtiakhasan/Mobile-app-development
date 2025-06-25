@@ -1,16 +1,33 @@
-# test_lilab
+# Meetmax Authentication UI – Flutter
 
-A new Flutter project.
+A clean and responsive **Flutter UI** for mobile authentication based on a Figma design.  
+This project includes the essential screens for user login and registration flow:
 
-## Getting Started
+- ✅ **Sign In Screen**
+- ✅ **Sign Up Screen**
+- ✅ **Forgot Password Screen**
+- 🔄 Seamless Navigation between screens
 
-This project is a starting point for a Flutter application.
+This UI is ready for backend integration with services like **Firebase**, **REST APIs**, or any custom authentication system.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Sign In | Sign Up | Forgot Password |
+|--------|--------|-----------------|
+| ![Sign In](screenshots/signin.png) | ![Sign Up](screenshots/signup.png) | ![Forgot Password](screenshots/forgetpass.png) |
+
+> *Screenshots based on the original Figma layout*
+
+---
+
+## 🚀 Getting Started
+
+Make sure you have Flutter installed. Then:
+
+```bash
+git clone https://github.com/yourusername/meetmax_auth_ui.git
+cd meetmax_auth_ui
+flutter pub get
+flutter run
